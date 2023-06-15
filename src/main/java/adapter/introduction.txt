@@ -1,0 +1,5 @@
+Class to have:
+Target (interface)
+Adaptee (class)
+Adapter (class)
+
